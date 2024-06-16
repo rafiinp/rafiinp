@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mamajuices2.mamajuices2" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rafiinp.rafiinp" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=BEDFF7&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Winasis!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=BEDFF7&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafi!;" />
 </h1>
 
 <h3 align="center">Aspiring to become a Fullstack developer from Indonesia</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Tailwind, AI, React**
 
-💬 Ask me about **Bootstrap, Figma, PHP... or anything [here](https://github.com/mamajuices2/mamajuices2)**
+💬 Ask me about **Bootstrap, Figma, PHP... or anything [here](https://github.com/rafiinp/rafiinp)**
 
 ⚡ Fun fact **Like something minimalis**
 
