@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:asiswisesa089@gmail.com">
+  <a href="mailto:rafiii.np@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.instagram.com/mamajuices2/" target="_blank">
+  <a href="https://www.instagram.com/raffiinp/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord,unreal" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,discord,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=php" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs" /><br>
